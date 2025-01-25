@@ -1,0 +1,1 @@
+The analysis of sampling techniques on different machine learning models reveals clear trends in their effectiveness for handling imbalanced data. Five sampling techniques were evaluated: Oversampling, SMOTE-Tomek, Tomek Links, ENN, and Undersampling. Their impact was assessed using five models: Logistic Regression, Decision Tree, Random Forest, SVM, and Gradient Boosting.
